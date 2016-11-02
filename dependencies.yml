@@ -1,0 +1,6 @@
+name: credit-check-service
+dependencies:
+  - experian-connect-api
+  - customer-service
+  - authentication-service
+  - legacy-transaction-sor
